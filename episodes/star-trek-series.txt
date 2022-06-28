@@ -2,7 +2,7 @@
   "Star trek (1966)",
   "The Next Generation (1987)",
   "Deep Space Nine (1993)",
-  "Star Trek: Voyager (1995)",
+  "Star Trek:Voyager (1995)",
   "Discovery (2017)",
   "Picard (2020)",
   "Strange New Worlds (2022)"
