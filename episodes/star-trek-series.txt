@@ -1,0 +1,9 @@
+[
+  "Star trek (1966)",
+  "Strange New Worlds (2022)",
+  "Discovery (2017)",
+  "The Next Generation (1987)",
+  "Picard (2020)",
+  "Deep Space Nine (1993)",
+  "Star Trek: Voyager (1995)"
+]
